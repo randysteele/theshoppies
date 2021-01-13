@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        
+        <Search></Search>
       </header>
     </div>
   );
